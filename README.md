@@ -73,7 +73,7 @@ lib/
    ```
 2. Navigate to the project folder:
    ```bash
-   cd local_cart
+   cd local_cart_app
    ```
 3. Install dependencies:
    ```bash
@@ -97,10 +97,6 @@ lib/
     - State is managed reactively using the Provider package.
 - **SQLite:**
     - Product data is saved locally and persists across app restarts.
-
-## 🖼️ Screenshots
-
-_Add screenshots here once the app is built._
 
 ## 🚀 Future Enhancements
 
